@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@100;200;300;400;500;600;700&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+a:link{color: black;}
+a:hover{color: black;}
+a:active{color: black;}
+a:visited{color: black;}
+
+
+
+.box7{
+    height: 1080px;
+}
+.inbox7{
+    margin: 0 auto;
+    width: 1198px;
+    height: 1080px;
+    position: relative;
+}
+.sb1{position: absolute;
+    width: 1198px;height:1080px ;}
+    .sb100{position: absolute; 
+        width: 138px;height: 5px;left: 45px; top:1052px;}
+        .sb101{position: absolute; 
+            width: 138px;height: 5px;left:280px; top:1052px;}
+            .sb102{position: absolute; 
+                width: 138px;height: 5px;left: 530px; top:1052px;}
+                .sb103{position: absolute; 
+                    width: 138px;height: 5px;left: 775px; top:1052px;}
+                    .sb104{position: absolute; 
+                        width: 138px;height: 5px;left: 1017px; top:1052px;}
+                    
+       
+
+.nav{
+height: 77px;
+position: absolute;
+left: 45px;
+bottom: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}   
+.nav ul{
+width: 1020px;
+display: flex;
+justify-content: space-between;
+}
+.nav ul li a{
+display: block;
+font-family: 'Noto Sans KR';
+    font-size: 21px;
+    letter-spacing: 0px;
+    line-height: 29px;
+    color:black;}

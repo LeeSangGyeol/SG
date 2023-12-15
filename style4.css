@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@100;200;300;400;500;600;700&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+a:link{color: black;}
+a:hover{color: black;}
+a:active{color: black;}
+a:visited{color: black;}
+
+
+
+.box4{
+    height: 1080px;
+}
+.inbox4{
+    margin: 0 auto;
+    width: 1198px;
+    height: 1080px;
+    position: relative;
+}
+
+
+
+.sb26{
+    position: absolute;
+    width: 597px;
+    height: 102px;
+    left: 52px;
+    top: 81px;
+    font-family: 'oswald';
+    font-size: 130px;
+    font-weight: 900px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: black;
+}  
+.sb27{
+    position: absolute;
+    width: 1000px;
+    height: 102px;
+    left: 52px;
+    top: 209px;
+    font-family: 'oswald';
+    font-size: 130px;
+    font-weight: 900px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: black;
+} 
+.sb28{
+    position: absolute;
+    width: 402px;
+    height: 422px;
+    left: 152px;
+    top: 250px;
+}   
+ .sb29{
+    position: absolute;
+    width:246px; 
+    height: 242px;
+    left: 871px;
+    top: 70px;
+} 
+ .sb30{
+    position: absolute;
+    width: 558px;
+    height: 419px;
+    left:640px;
+    top: 508px;
+}
+ .sb31{
+    position: absolute;
+    width: 301px;
+    height: 233px;
+    left:72px;
+    top: 735px;
+}
+ .sb32{
+    position: absolute;
+    width: 465px; height: 99px; left: 713px;top: 379px;
+    font-family: 'Noto Sans KR';
+    font-size: 15px;
+    font-weight: 300px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: black;
+}
+
+
+
+.box5{
+height: 1080px;
+     }
+.inbox5{
+    margin: 0 auto;
+    width: 1198px;
+    height: 1080px;
+    position: relative;
+}
+
+
+
+.sb33{
+    position: absolute;
+    width: 280px; height: 51px; left: 46px;top: 84px;
+    font-family: 'oswald';
+    font-size: 40px;
+    font-weight: 900px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: black;
+}  
+.sb34{
+    position: absolute;
+    width: 597px;
+    height: 102px;
+    left: 46px;
+    top: 141px;
+    font-family: 'oswald';
+    font-size: 70px;
+    font-weight: 900px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: black;
+}  
+.sb35{
+    position: absolute;
+    width: 159px;
+    height: 182px;
+    left:16px;
+    top: 11px;
+}
+.sb36{
+    position: absolute;
+    width: 79px;
+    height: 76px;
+    left:582px;
+    top: 109px;
+}
+.sb37{
+    position: absolute;
+
+    width:1197px;
+    height:774px;
+    top: 235px;
+}
+
+
+
+.sb100{position: absolute; 
+    width: 138px;height: 5px;left: 45px; top:1052px;}
+    .sb101{position: absolute; 
+        width: 138px;height: 5px;left:280px; top:1052px;}
+        .sb102{position: absolute; 
+            width: 138px;height: 5px;left: 530px; top:1052px;}
+            .sb103{position: absolute; 
+                width: 138px;height: 5px;left: 775px; top:1052px;}
+                .sb104{position: absolute; 
+                    width: 138px;height: 5px;left: 1017px; top:1052px;}
+                
+   
+
+.nav{
+height: 77px;
+position: absolute;
+left: 45px;
+bottom: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}   
+.nav ul{
+width: 1020px;
+display: flex;
+justify-content: space-between;
+}
+.nav ul li a{
+display: block;
+font-family: 'Noto Sans KR';
+font-size: 21px;
+letter-spacing: 0px;
+line-height: 29px;
+color:black;}
